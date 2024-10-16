@@ -1,5 +1,10 @@
 const quizData = [
     {
+      question: "What is the best Harry Potter book?",
+      options: ["HBP", "OOTP", "GOF", "DH"],
+      answer: "HBP"
+    },
+    {
       question: "What was the first video game ever made?",
       options: ["Pong", "Spacewar!", "Tetris", "Computer Space"],
       answer: "Spacewar!"
